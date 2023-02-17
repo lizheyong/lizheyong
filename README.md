@@ -28,6 +28,7 @@
 ### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
+
 
 ⭐️ From [JoeyBling](https://github.com/lijinchao98)
