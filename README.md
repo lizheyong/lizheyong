@@ -23,5 +23,7 @@
 
 ### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijinchao98)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [JoeyBling](https://github.com/lijinchao98)
