@@ -1,6 +1,6 @@
 <img align="right"  width=330 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
-### :shipit: ***I'm Zheyong Li***
+### :shipit: ***I'm Zheyong***
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI | CV | HSI 
