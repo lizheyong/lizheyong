@@ -4,7 +4,9 @@
 
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijinchao98&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI | CV | HSI 
