@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 ---
-<img align="right"  width=500 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<img align="right"  width=300 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 ### I'm Zheyong Li
 
