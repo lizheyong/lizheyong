@@ -8,7 +8,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-<img align="right"  width=420 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<img align="right"  width=400 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 - 💻  ![Python](https://img.shields.io/badge/-Python-brightgreen)
 - 🛢  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Django](https://img.shields.io/badge/-Django-orange) 
