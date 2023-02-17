@@ -1,5 +1,3 @@
-## Hello GitHub Fans 👋
----
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 ### :shipit: I'm Zheyong Li
@@ -10,7 +8,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Python-brightgreen)
+- 💻 &#160; &#3776AB![Python](https://img.shields.io/badge/-Python-brightgreen)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Django](https://img.shields.io/badge/-Django-orange) 
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
