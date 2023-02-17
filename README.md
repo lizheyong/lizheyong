@@ -5,7 +5,7 @@
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
-- 🌱 AI learner | CV | HSI 
+- 🌱 AI | CV | HSI 
 - 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
@@ -23,7 +23,5 @@
 
 ### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [JoeyBling](https://github.com/lijinchao98)
