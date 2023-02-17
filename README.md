@@ -3,6 +3,9 @@
 ### :shipit: ***I'm Zheyong Li***
 
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="righr" src="https://github-readme-stats.vercel.app/api/pin/?username=lijinchao98&repo=github-readme-stats" />
+</a>
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI | CV | HSI 
@@ -23,7 +26,6 @@
 
 ### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijinchao98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ⭐️ From [JoeyBling](https://github.com/lijinchao98)
