@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right"  src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 ### I'm Zheyong Li
 
