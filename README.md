@@ -3,14 +3,15 @@
 ### :shipit: ***I'm Zheyong Li***
 
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI | CV | HSI 
 - 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
-</a>
+
+
+
 
 ### 🛠 技术栈 | Tech Stack
 
