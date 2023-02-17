@@ -1,11 +1,11 @@
 
 
 ### :shipit: I'm Zheyong Li
-<img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI learner | CV | HSI 
 - 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com)
-
+<img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 ### 🛠 技术栈 | Tech Stack
 
 - 💻  ![Python](https://img.shields.io/badge/-Python-brightgreen)
