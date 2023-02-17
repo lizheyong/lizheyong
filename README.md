@@ -29,6 +29,3 @@
 - [博客](http://lizheyong.com)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
-
-
-⭐️ From [JoeyBling](https://github.com/lijinchao98)
