@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 ---
-<img align="right"  width=300 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
 ### I'm Zheyong Li
 
@@ -21,7 +21,7 @@
 - [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lijinchao98/IOPE-Net)
 - [变电站数字式仪表识别_CRNN+CTC](https://github.com/lijinchao98/digital_pred_func)
 
-###:shipit: 关于我 | About Me
+### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
