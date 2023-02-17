@@ -2,9 +2,9 @@
 ---
 <img align="right"  width=350 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
 
-### I'm Zheyong Li
+### :shipit: I'm Zheyong Li
 
-- A graduate student of information and communication engineering.
+- 🎓 A graduate student of information and communication engineering.
 - 🌱 Currently studying in XiAn, China.
 - 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com)
 
