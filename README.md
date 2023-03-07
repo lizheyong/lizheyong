@@ -18,6 +18,7 @@
 - [基于迁移的高光谱水下目标检测框架_TUTDF](https://github.com/lijinchao98/TUTDF)
 - [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lijinchao98/IOPE-Net)
 - [变电站数字式仪表识别_CRNN+CTC](https://github.com/lijinchao98/digital_pred_func)
+- [Windows主题切换]（https://github.com/lijinchao98/windows-theme-switch）
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
 
