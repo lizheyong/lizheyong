@@ -19,6 +19,7 @@
 - [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lijinchao98/IOPE-Net)
 - [变电站数字式仪表识别_CRNN+CTC](https://github.com/lijinchao98/digital_pred_func)
 - [Windows主题切换](https://github.com/lijinchao98/windows-theme-switch)
+- [数字式仪表读数中小数点识别](https://github.com/lijinchao98/decimal-point-detection)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
 
