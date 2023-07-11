@@ -4,7 +4,7 @@
 
 - 🎓 School of Electronics And Information, Northwestern Polytechnical University, Xi’an 710100, China;
 - 🌱 AI | CV | HSI 
-- 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com)
+- 💬 Ask me about my projects on [740967133@qq.com](mailto:740967133@qq.com) [740967133@mail.nwpu.edu.cn](mailto:740967133@mail.nwpu.edu.cn)
 
 ### 🛠 技术栈 | Tech Stack
 
