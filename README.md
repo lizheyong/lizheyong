@@ -19,6 +19,7 @@
 - [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lijinchao98/IOPE-Net)
 - [变电站轨道机器人仪表识别](https://github.com/lijinchao98/RailBot-Multi-Instrument-Recognition)
 - [Windows主题切换](https://github.com/lijinchao98/windows-theme-switch)
+- [基于Django(DRF)的图书管理系统的API接口](https://github.com/lijinchao98/BookManage-v1.0)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
 
