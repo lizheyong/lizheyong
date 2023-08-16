@@ -1,4 +1,4 @@
-<img align="right"  width=330 src="https://github.com/lijinchao98/lijinchao98/blob/main/pic/xuexi.jpg" />
+<img align="right"  width=330 src="https://github.com/lizheyong/lizheyong/blob/main/pic/xuexi.jpg" />
 
 ### :shipit: ***I'm Zheyong***
 
@@ -15,13 +15,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### ⭐项目 | Project
-- [基于迁移的高光谱水下目标检测框架_TUTDF](https://github.com/lijinchao98/TUTDF)
-- [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lijinchao98/IOPE-Net)
-- [变电站轨道机器人仪表识别](https://github.com/lijinchao98/RailBot-Multi-Instrument-Recognition)
-- [Windows主题切换](https://github.com/lijinchao98/windows-theme-switch)
-- [基于Django(DRF)的图书管理系统的API接口](https://github.com/lijinchao98/BookManage-v1.0)
+- [基于迁移的高光谱水下目标检测框架_TUTDF](https://github.com/lizheyong/TUTDF)
+- [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lizheyong/IOPE-Net)
+- [变电站轨道机器人仪表识别](https://github.com/lizheyong/RailBot-Multi-Instrument-Recognition)
+- [Windows主题切换](https://github.com/lizheyong/windows-theme-switch)
+- [基于Django(DRF)的图书管理系统的API接口](https://github.com/lizheyong/BookManage-v1.0)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=lijinchao98&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=lizheyong&show_icons=true&theme=tokyonight" />
 
 ### :shipit: 关于我 | About Me
 - [博客](http://lizheyong.com)
