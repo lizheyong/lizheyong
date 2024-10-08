@@ -23,5 +23,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lizheyong&show_icons=true&theme=tokyonight" />
 
-### :shipit: 关于我 | About Me
-- [博客](http://blog.lizheyong.com)
+
