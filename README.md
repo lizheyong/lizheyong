@@ -15,6 +15,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### ⭐项目 | Project
+- [xAI的API反向代理](https://github.com/lizheyong/xai-reverse-proxy-vercel)
 - [基于迁移的高光谱水下目标检测框架_TUTDF](https://github.com/lizheyong/TUTDF)
 - [无监督高光谱水质估计网络_IOPE-Net](https://github.com/lizheyong/IOPE-Net)
 - [变电站轨道机器人仪表识别](https://github.com/lizheyong/RailBot-Multi-Instrument-Recognition)
